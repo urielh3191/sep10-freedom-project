@@ -13,8 +13,8 @@ advertisements over the radio.
 
 ### Why pick this topic?
 I think that it's very important, especially in this day and age of streaming sites. It's important to innovate
-in the sector we will use for essentially the rest of our lives, because if we don't innovate for the better of
-humanity, corporate 
+in the sector we will use for essentially the rest of our lives, and is essential for recieving our daily intake
+of news and tabloid information on our favorite celebrities. 
 
 
 [Next](entry02.md)
