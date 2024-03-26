@@ -12,7 +12,11 @@ Hello. This is my first time working with A-Frame. Some things that I am seeing 
 [I'm using this playlist to help me along my journey of A-Frame experimentation.](https://youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&si=vvkXc965tx72R9i0)
 I'm currently on [video 3](https://youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&si=vvkXc965tx72R9i0), and right now theres already an influx of information on the attributes you can do to the object in the sandbox.
 
-*
+* ```segments-radial ``` is how many sides your circle has
+
+* ```open-ended``` hollows out the object
+
+* ```side=double``` makes the object visible from both sides (makes it appear like a 3d object, it seems it glitches out if you dont do this step)
 
 X/X/X:
 * Text
