@@ -18,8 +18,8 @@ I'm currently on [video 3](https://youtube.com/playlist?list=PL8MkBHej75fJD-HveD
 
 * ```side=double``` makes the object visible from both sides (makes it appear like a 3d object, it seems it glitches out if you dont do this step)
 
-X/X/X:
-* Text
+4/4/24:
+* Learned how to make a hollowed out cone / semi-sphere
 
 
 <!--
