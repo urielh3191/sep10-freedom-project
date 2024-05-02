@@ -10838,3 +10838,7 @@ section {
   padding-bottom: 9rem;
 }
 
+a-scene {
+  height: 300px;
+  width: 600px;
+}
