@@ -9,6 +9,7 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -77,9 +78,15 @@
                     <div class="col-lg-10">
                         <h2>What are current plans to improve?</h2>
                         <p class="lead">Currently, with the Apple Vision Pro and Oculus Rifts becoming more and more popular, this opens a new possible way of consuming media, now we can integrate movies perhaps into VR, just like in the book Ready Player One, where there are new immersive means to play movies through. </p>
-                       <a-scene>
-                        
-                       </a-scene>
+                        <div id="myEmbeddedScene">
+                            <a-scene embedded>
+                                <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+                                <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
+                                <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+                                <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+                                <a-sky color="#ECECEC"></a-sky>
+                            </a-scene>
+                          </div>
 
                     </div>
                 </div>
